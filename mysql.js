@@ -22,7 +22,7 @@ connection.connect(function(err){
 		})
 	}
 });
- 
+ //
 // var  sql = 'SELECT * FROM websites';
 // //查
 // connection.query(sql,function (err, result) {
